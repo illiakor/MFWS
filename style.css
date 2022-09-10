@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    background: url("11111.jpg");
+    background-position: center;
+    background-size: cover;
+}
+p {
+    font-family:'Courier New', Courier, monospace;
+}
+h2 {
+    margin-left: 570px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    color: black;
+    display: block;
+}
+h3 {
+    margin-left: 370px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    color: black;
+    display: block;
+}
+.popk {
+    margin-top: -450px;
+    margin-left: 200px;
+    font-size: 50px;
+    display: block;
+}
+.kola {
+    margin-top: -103px;
+    margin-left: 420px;
+    width: 300px;
+    height: 300px;
+}
+.kol {
+    margin-top: 100px;
+    margin-left: 90px;
+    width: 300px;
+    height: 300px;
+}
