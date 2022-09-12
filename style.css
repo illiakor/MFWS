@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    height: 100vh;
+    height: 80vh;
     background: url("./img/11111.jpg");
     background-position: center;
     background-size: cover;
@@ -25,7 +25,7 @@ h3 {
     color: black;
     display: block;
 }
-. {
+.popk {
     margin-top: -450px;
     margin-left: 200px;
     font-size: 50px;
@@ -45,6 +45,21 @@ h3 {
 }
 .kolak {
     width: 100px;
-    top: -500;
-    position: relative;
+}
+.llll {
+    padding-top: -90px;
+    padding-left: 420px;
+    bottom: 100px;
+}
+.kolakok{
+    width: 100px;
+}
+.kolak{
+    width: 100px;
+}
+.kolako{
+    width: 100px;
+}
+.kolakol{
+    width: 100px;
 }
