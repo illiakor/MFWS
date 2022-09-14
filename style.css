@@ -1,9 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 body {
-    height: 80vh;
+    height: 123vh;
     background: url("./img/11111.jpg");
     background-position: center;
     background-size: cover;
@@ -16,14 +17,12 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
     color: black;
-    display: block;
 }
 h3 {
     margin-left: 380px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
     color: black;
-    display: block;
 }
 .popk {
     margin-top: -450px;
@@ -48,7 +47,7 @@ h3 {
 }
 .llll {
     padding-top: -90px;
-    padding-left: 420px;
+    padding-left: 600px;
     bottom: 100px;
 }
 .kolakok{
@@ -62,4 +61,18 @@ h3 {
 }
 .kolakol{
     width: 100px;
+}
+.llll img {
+    margin-left: 10px;
+    margin-top: -50px;
+}
+.git {
+    color: black;
+}
+a {
+    color: black;
+    margin-left: 10px;
+}
+.git {
+    left: 1500px;
 }
